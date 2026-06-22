@@ -9,9 +9,12 @@ Learning core Python concepts:
 - Variables and Fundamentals
 - Data Types
 - Operations
+- Strings
 - Conditionals
+- Dictionary and Sets
 - Loops
 - Functions
+- File Handling
 - OOP
 
 ### practice_questions
