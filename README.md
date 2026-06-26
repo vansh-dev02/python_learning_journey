@@ -20,6 +20,8 @@ Learning core Python concepts:
 ### practice_questions
 Coding practice and problem solving.
 
+### mini_projects
+
 ## 🎯 Goal
 
 Building strong foundations for:
