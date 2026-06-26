@@ -1,4 +1,4 @@
-#Personal Finance app
+#Personal Expense Tracker
 
 expenses = [ ] #List of all expenses in form of dictionary
 
